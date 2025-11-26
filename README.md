@@ -25,6 +25,7 @@ Hasil penelitian menunjukkan proses konvergensi yang jelas pada parameter model 
 ---
 ## 🔗 **Link Penting**
 ### **Video Presentasi**
+https://github.com/sains-data/tugas-besar-komputasi-statistik-kelompok-3/blob/main/LINK%20YOUTUBE_3_RA.md
 
 ### **Laporan Penelitian**
 https://github.com/sains-data/tugas-besar-komputasi-statistik-kelompok-3/blob/main/LAPORAN_3_RA.pdf
